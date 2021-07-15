@@ -1,4 +1,4 @@
-# Wish Account Checker by amir
+# Wish Account Checker by Amir
 
 ### - Design : `MetroFramework.dll`
 ### - .Net : `xNet.dll`
